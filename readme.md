@@ -1,9 +1,11 @@
-# _PluginTemplate
+# /r/GlobalOffensive Notifier
 
-This is the Maven template I use for all my Bukkit plugins. The name starts with _ so it appears first in my file listings.
+Desktop Reddit notifications created in Java.
 
 ## Compilation
 
-I use Maven to build my projects with the following command:
+I use Maven to build my projects and make use of the following libraries:
 
-    clean package
+* JRAW
+* JCommunique
+* SLF4J
